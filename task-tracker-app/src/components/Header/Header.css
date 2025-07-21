@@ -1,0 +1,15 @@
+.header {
+    @apply bg-blue-500 text-white p-4 flex justify-between items-center;
+}
+
+.logo {
+    @apply text-xl font-bold;
+}
+
+.nav {
+    @apply flex space-x-4;
+}
+
+.nav-link {
+    @apply text-white hover:text-blue-300;
+}

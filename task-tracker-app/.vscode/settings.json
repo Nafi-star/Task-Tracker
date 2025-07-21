@@ -1,0 +1,28 @@
+
+  {
+    "workbench.iconTheme": "vscode-icons",
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.wordWrap": "on",
+    "css.lint.unknownAtRules": "ignore",
+    "files.associations": {
+        "*.css": "tailwindcss"
+    },
+    "files.autoSave": "afterDelay",
+    "git.openRepositoryInParentFolders": "always",
+    "workbench.editorAssociations": {
+        "*.webp": "imagePreview.previewEditor"
+    },
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.CustomBrowser": "firefox",
+    "settingsSync.ignoredSettings": [
+    
+    ],
+    "workbench.settings.applyToAllProfiles": [
+        
+
+    ], 
+    "json.schemaDownload.enable": false
+}
+
