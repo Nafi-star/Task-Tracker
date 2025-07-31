@@ -3,11 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "dev": "vite",
     "start": "vite",
     "build": "vite build",
     "serve": "vite preview"
   },
   "dependencies": {
+    "express": "^5.1.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "tailwindcss": "^2.2.19",
@@ -38,5 +40,10 @@
     ">0.2%",
     "not dead",
     "not op_mini all"
-  ]
+  ],
+  "description": "## Overview The Task Tracker App is a React application designed to help users manage their tasks efficiently. It provides a user-friendly interface for creating, viewing, and editing tasks.",
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
